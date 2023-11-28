@@ -7,6 +7,8 @@
         <samp>&gt; Hey There!
         </samp>
 </h3>
+![image](https://github.com/NightSky13000/NightSky13000/assets/101979092/213d5c2e-902b-46a9-a7c9-eac4227fbb7d)
+
 
 </p>
 
