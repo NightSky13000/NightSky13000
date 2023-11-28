@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://github.com/NightSky13000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightSky13000&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightSky13000&theme=radical&border=7F3FBF&background=0D1117" alt="NightSky GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NightSky13000">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NightSky13000&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NightSky13000&theme=radical" alt="NightSky GitHub Contribution"/>
   </a>
 </p>
 
