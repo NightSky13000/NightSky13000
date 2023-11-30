@@ -16,13 +16,13 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-
-
+<hr/>
 <br/>
 
-<img src="https://discordapp.com/api/guilds/936105444538187797/widget.png?style=banner2" alt="AL STORE"/>
+
+<br/>
+
+<img alignt="center" src="https://discordapp.com/api/guilds/936105444538187797/widget.png?style=banner2" alt="AL STORE"/>
 
 <br/>
 <hr/>
