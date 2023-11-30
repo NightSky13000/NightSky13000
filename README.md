@@ -16,14 +16,8 @@
 </p>
 
 <br/>
-<hr/>
 <br/>
-
-
 <br/>
-<h2 align="center">Discord Server</h2>
-
-<img src="https://discordapp.com/api/guilds/936105444538187797/widget.png?style=banner2" alt="AL STORE"/>
 
 <br/>
 <hr/>
