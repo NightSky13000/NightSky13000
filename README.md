@@ -21,8 +21,9 @@
 
 
 <br/>
+<h2 align="center">Discord Server</h2>
 
-<img alignt="center" src="https://discordapp.com/api/guilds/936105444538187797/widget.png?style=banner2" alt="AL STORE"/>
+<img align="center" src="https://discordapp.com/api/guilds/936105444538187797/widget.png?style=banner2" alt="AL STORE"/>
 
 <br/>
 <hr/>
