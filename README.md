@@ -10,9 +10,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://discord.com/users/948164660375453706" target="_blank">
-
-    </a>
+<a href="https://discord.com/users/948164660375453706"><img src="https://lanyard.cnrad.dev/api/948164660375453706?theme=dark&bg=" /></a>
     </p>
 
 </p>
