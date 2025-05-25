@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/948164660375453706" target="_blank">
-	      <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/948164660375453706?bg=1f1f1f&borderRadius=5px">
+	![My Discord](https://discord-readme-badge.vercel.app/api?id=948164660375453706)
     </a>
     </p>
 
