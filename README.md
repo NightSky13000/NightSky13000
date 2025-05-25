@@ -10,7 +10,9 @@
 </h3>
 
 <p align="center">
-        <img src="https://github.com/NightSky13000/NightSky13000/assets/101979092/39cf5a47-1b21-429e-8f54-80644d1080cb" alt="Pixiv Banner">
+    <a href="https://discord.com/users/948164660375453706" target="_blank">
+	      <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/948164660375453706?bg=1f1f1f&borderRadius=5px">
+    </a>
     </p>
 
 </p>
