@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/948164660375453706" target="_blank">
-	![My Discord](https://discord-readme-badge.vercel.app/api?id=948164660375453706)
+
     </a>
     </p>
 
