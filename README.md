@@ -9,7 +9,7 @@
 </p>
 
 <hr/>
-![Priestess](https://i.postimg.cc/WzWcbw8q/images-(21).jpg)
+<img align="right" src="https://i.postimg.cc/WzWcbw8q/images-(21).jpg" />
 <hr/>
 
 <p align="center">
