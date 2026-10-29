@@ -7,7 +7,7 @@
 <hr/>
 <br>
 <div align="center">
-  <img src="[assets/wallpaper.png](https://i.postimg.cc/WzWcbw8q/images-(21).jpg)" alt="Wallpaper" width="835">
+  <img src="https://i.postimg.cc/WzWcbw8q/images-(21).jpg" alt="Wallpaper" width="835">
 </div>
 
 <br>
