@@ -3,7 +3,7 @@
     <img src="https://lanyard.cnrad.dev/api/948164660375453706?animatedDecoration=true&animated=true&showDisplayName=true&borderRadius=15px&bg=000000" alt="Discord Status" height="210" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://arknights.wiki.gg/images/Priestess.png?f92ba0" alt="Shimarin" height="210" />
+  <img src="https://arknights.wiki.gg/images/Priestess.png" alt="Shimarin" height="210" />
 </p>
 
 <hr/>
