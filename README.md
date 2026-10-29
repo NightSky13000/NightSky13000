@@ -5,4 +5,13 @@
 </p>
 
 <hr/>
-<img align="right" src="https://i.postimg.cc/WzWcbw8q/images-(21).jpg" />
+<br>
+<div align="center">
+  <img src="[assets/wallpaper.png](https://i.postimg.cc/WzWcbw8q/images-(21).jpg)" alt="Wallpaper" width="835">
+</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/NightSky13000"><img src="https://streak-stats.demolab.com?user=NightSky13000&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+</p>
