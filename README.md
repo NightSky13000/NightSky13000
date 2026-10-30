@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://github.com/NightSky13000">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Night+Sky+%F0%9F%8C%8C;Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
+</a>
+
 <p align="center">
 <a href="https://discord.com/users/948164660375453706" target="_blank"><img src="https://lanyard.cnrad.dev/api/948164660375453706?animatedDecoration=true&animated=true&showDisplayName=true&borderRadius=15px&bg=000000" alt="Discord Status" height="210" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
