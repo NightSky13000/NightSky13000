@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://discord.com/users/948164660375453706" target="_blank"><img src="https://lanyard.cnrad.dev/api/948164660375453706?animatedDecoration=true&animated=true&showDisplayName=true&borderRadius=15px&bg=000000" alt="Discord Status" height="210" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/9k7dV0nJk1AAAAAd/prts-priestess.gif" alt="Priestess" height="210" />
+  <img src="https://c.tenor.com/9k7dV0nJk1AAAAAd/tenor.gif" alt="Priestess" height="210" />
 </p>
 
 <hr/>
