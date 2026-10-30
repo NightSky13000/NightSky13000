@@ -15,13 +15,13 @@
 
 <p align="center">
 <a href="https://github.com/NightSky13000">
-<img src="https://github-stats-extended.vercel.app/api?username=NightSky13000&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15&bg_color=000000&card_width=835" alt="GitHub Stats" width="835" />
+<img src="https://github-stats-extended.vercel.app/api?username=NightSky13000&show_icons=true&hide_border=true&border_radius=15&bg_color=000000&title_color=A5B4FC&icon_color=6366F1&text_color=E2E8F0&ring_color=6366F1&card_width=835" alt="GitHub Stats" width="835" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/NightSky13000">
-<img src="https://streak-stats.demolab.com?user=NightSky13000&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=NightSky13000&hide_border=true&border_radius=15&background=000000&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC&currStreakNum=FFFFFF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=1E293B&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
 </a>
 </p>
 
